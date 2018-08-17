@@ -2,6 +2,7 @@
 - Hello World level
 - with simple test case example
 - integrate with CI/CD
+- test the PR
 
 ## setup golang dev env
 - [在 Mac book / Centos 7 上設置 Golang 的開發環境 | YIIDTW](https://yiidtw.github.io/blog/2018-05-23-golang-dev-setup/#more)
