@@ -24,3 +24,6 @@ $ go test
 PASS
 ok      hello-web-in-go 0.006s
 ```
+
+## PR testing
+- PR 7
